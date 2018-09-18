@@ -1,0 +1,4 @@
+C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4203.549\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\hp\Desktop\Tec\Tercer semestre\Estructura_Datos\Tareas_Programacion\TareaPorgra_3"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/hp/Desktop/Tec/Tercer semestre/Estructura_Datos/Tareas_Programacion/TareaPorgra_3/cmake-build-debug

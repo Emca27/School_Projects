@@ -1,0 +1,3 @@
+C:/Users/hp/Desktop/Tec/Tercer semestre/Estructura_Datos/Tareas_Programacion/TareaPorgra_3/cmake-build-debug/CMakeFiles/Tareas_Programacion.dir
+C:/Users/hp/Desktop/Tec/Tercer semestre/Estructura_Datos/Tareas_Programacion/TareaPorgra_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hp/Desktop/Tec/Tercer semestre/Estructura_Datos/Tareas_Programacion/TareaPorgra_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

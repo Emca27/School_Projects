@@ -1,0 +1,3 @@
+C:\Users\hp\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\181.4203.549\bin\cmake\bin\cmake.exe -E remove -f CMakeFiles\Tareas_Programacion.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Tareas_Programacion.dir/objects.a @CMakeFiles\Tareas_Programacion.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Tareas_Programacion.dir/objects.a -Wl,--no-whole-archive  -o Tareas_Programacion.exe -Wl,--out-implib,libTareas_Programacion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Tareas_Programacion.dir\linklibs.rsp

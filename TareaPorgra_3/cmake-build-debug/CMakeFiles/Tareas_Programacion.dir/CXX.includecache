@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hp/Desktop/Tec/Tercer semestre/Estructura_Datos/Tareas_Programacion/TareaPorgra_3/main.cpp
+iostream
+-
+string.h
+C:/Users/hp/Desktop/Tec/Tercer semestre/Estructura_Datos/Tareas_Programacion/TareaPorgra_3/string.h
+
